@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "url": "../images/chill.jpg",
+        "title": "Chill Picture",
+        "description": "A picture of a chill place",
+        "alt":"yeah"
+    },
+    {
+        "id": "1",
+        "url": "../images/malmo.jpg",
+        "title": "Malmö",
+        "description": "Malmö in all its glory",
+        "alt":"yeah1"
+    },
+    {
+        "id": "2",
+        "url": "../images/penguin.png",
+        "title": "Penguin",
+        "description": "The cutest penguin of all",
+        "alt":"yeah2"
+    },
+    {
+        "id": "3",
+        "url": "../images/windpow.jpg",
+        "title": "The windmills",
+        "description": "Many windmills in the ocean",
+        "alt":"yeah3"
+    },
+    {
+        "id": "4",
+        "url": "../images/stockholm.jpg",
+        "title": "Stockholm",
+        "description": "Cool city for not so cool people",
+        "alt":"yeah4"
+    },
+    {
+        "id": "5",
+        "url": "../images/VALORANT.png",
+        "title": "Valorant",
+        "description": "Cool but boring game",
+        "alt":"yeah5"
+    }
+]
